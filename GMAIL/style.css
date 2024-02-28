@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.search{
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+
+.compose{
+    border-radius:15px ;
+    border: none;
+    width: 130px;
+}
+
+.buttons{
+    margin-left: -20px;
+}
+.clickers{
+    width: 200px;
+    margin-left: -10px;
+    text-align: start;
+    padding-left: 20px;
+    border: none;
+    border-radius: 0px 20px 20px 0px ;
+    
+}
+.label{
+    word-spacing:120px;
+    font-size: 20px;
+}
+
+.scroller{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
